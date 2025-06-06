@@ -33,24 +33,12 @@
   <img src="https://github.com/user-attachments/assets/fc4ae9ed-293a-4045-8584-749ff9b5e016">
 </div>
 
----
 
 ### 2) 영화 추천 화면 & 추천 이유 설명 (1)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1ec48b7a-1c4c-406b-910a-929d725850d0" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/b6da5c2e-20a3-4d33-9858-26e889aa6f19" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/4ad0cb40-6cbc-48b2-9a90-700789580a42">
 </div>
-
----
-
-### 3) 추천 이유 설명 (2)
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/70fb02d6-189f-4411-a601-5e09fed47c23" width="45%"/>
-</div>
-
-
 
 ---
 
