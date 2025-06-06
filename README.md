@@ -45,7 +45,7 @@
 
 ## 🏗️ 시스템 아키텍처
 
-![architechture](https://github.com/user-attachments/assets/709a242f-d582-4174-8358-1e63ca67058d)
+![5](https://github.com/user-attachments/assets/342b2f5f-ad51-4a2f-ae10-6e05441a8914)
 
 ---
 
