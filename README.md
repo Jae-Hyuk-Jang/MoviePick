@@ -1,11 +1,16 @@
-# MoviePick – 하이브리드 필터링 × LLM 기반 정교화된 영화 추천
+# **🎬 MoviePick** 
+## 하이브리드 필터링 × LLM 기반 정교화된 영화 추천
 > **P-Semester Project**  
 > _Precision & Personalization, powered by Hybrid Recommender Systems and Large Language Models_
+
+---
 
 ## 1. 프로젝트 배경
 기존 VOD/OTT 추천 엔진은  
 - **행동 데이터**(시청 이력, 별점 등)와 **콘텐츠 메타데이터**(장르, 감독, 배우 등)에 주로 의존합니다.  
 - 기본적인 개인화는 가능하지만, **심층적 선호 파악**·**동적 취향 변화 반영**에는 한계가 있습니다.  
+
+---
 
 ## 2. 핵심 아이디어
 1. **하이브리드 필터링**  
@@ -17,12 +22,30 @@
 3. **다단계 랭킹 파이프라인**  
    1) 기본 Hybrid Score  
    2) LLM Vector Similarity 보정  
-   3) 실시간 컨텍스트(시간, 기기, 시청 상태) Re-Rank  
+
+---
+
+## 📱 애플리케이션 흐름
+
+### 1) 얼룩 분석 서비스 
+
+
+### 2) 라벨 분석 서비스 
+
+
+### 3) 얼룩 + 라벨 통합 분석 서비스
+
+
+### 4) 섬유 유연제 추천, 인근 세탁소 검색 서비스
+
+---
+
 
 ## 🏗️ 시스템 아키텍처
 
 ![architechture](https://github.com/user-attachments/assets/709a242f-d582-4174-8358-1e63ca67058d)
 
+---
 
 ## 🎬 시연 영상
 
