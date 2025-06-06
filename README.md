@@ -30,8 +30,7 @@
 ### 1) 초기 설문조사로 취향 입력 & 로그인 후 화면
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/582c3193-4683-415c-b3a5-11c75d5e95fa" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/847e6e24-66b6-4608-a160-e18deae4cd4d" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/fc4ae9ed-293a-4045-8584-749ff9b5e016">
 </div>
 
 ---
