@@ -34,7 +34,7 @@
 </div>
 
 
-### 2) 영화 추천 화면 & 추천 이유 설명 (1)
+### 2) 영화 추천 화면 & 추천 이유 설명 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4ad0cb40-6cbc-48b2-9a90-700789580a42">
