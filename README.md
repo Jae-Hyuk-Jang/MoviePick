@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/4fd1c407-5b0f-4bba-b3a8-ddf03fd384e0
 
 | Avatar | 이름&nbsp;/&nbsp;영문 | 담당 영역 | 핵심 기술스택 | GitHub |
 |:---:|:---|:---|:---|:---:|
-| <img src="https://github.com/Jae-Hyuk-Jang.png" width="100"/> | **장재혁**<br/>Jae-Hyuk Jang | AI 백엔드 엔지니어<br/>AI 서버–백엔드 연동 및 서버 통합 관리 | FastAPI&nbsp;&#124; Spring Boot&nbsp;&#124; Python&nbsp;&#124; Docker | [Jae-Hyuk-Jang](https://github.com/Jae-Hyuk-Jang) |
+| <img src="https://github.com/Jae-Hyuk-Jang.png" width="100"/> | **장재혁**<br/>Jae-Hyuk Jang | AI 백엔드 엔지니어<br/>AI 서버–백엔드 연동 및 서버 통합 관리 | FastAPI&nbsp;&#124; Spring Boot&nbsp;&#124; Python&nbsp; | [Jae-Hyuk-Jang](https://github.com/Jae-Hyuk-Jang) |
 | <img src="https://github.com/axhtl.png" width="100"/> | **유수빈**<br/>Su-Bin Yoo | 백엔드 개발<br/>DB 설계 및 팀 일정 관리 | Spring Boot&nbsp;&#124; JPA&nbsp;&#124; MySQL | [axhtl](https://github.com/axhtl) |
 | <img src="https://github.com/SongInseo01.png" width="100"/> | **송인서**<br/>In-Seo Song | AI 엔지니어<br/>영화 데이터 수집 및 AI 모델 구축 | PyTorch&nbsp;&#124; Pandas&nbsp;&#124; Scikit-Learn | [SongInseo01](https://github.com/SongInseo01) |
 | <img src="https://github.com/taejuIRIS.png" width="100"/> | **김태주**<br/>Tae-Joo Kim | 프론트엔드 개발<br/>UI/UX 설계 및 구현 | React&nbsp;&#124; Figma&nbsp;&#124; Tailwind CSS | [taejuIRIS](https://github.com/taejuIRIS) |
