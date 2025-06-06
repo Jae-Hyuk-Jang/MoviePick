@@ -27,33 +27,30 @@
 
 ## 📱 애플리케이션 흐름
 
-### 1) 초기 설문조사로 취향 입력  
-사용자는 첫 로그인 시 선호 장르, 분위기, 선호 감독 등의 정보를 선택해 취향을 입력합니다.
+### 1) 초기 설문조사로 취향 입력 & 로그인 후 화면
 
-![초기 설문조사](https://github.com/user-attachments/assets/582c3193-4683-415c-b3a5-11c75d5e95fa)
-
----
-
-### 2) 로그인 후 메인 화면  
-맞춤형 대시보드를 통해 최신 추천 영화, 인기 콘텐츠, 사용자 맞춤 큐레이션을 제공합니다.
-
-![로그인 후 화면](https://github.com/user-attachments/assets/847e6e24-66b6-4608-a160-e18deae4cd4d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/582c3193-4683-415c-b3a5-11c75d5e95fa" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/847e6e24-66b6-4608-a160-e18deae4cd4d" width="45%"/>
+</div>
 
 ---
 
-### 3) 영화 추천 화면  
-하이브리드 + LLM 분석을 바탕으로 현재 시점에서 가장 적합한 영화를 추천합니다.
+### 2) 영화 추천 화면 & 추천 이유 설명 (1)
 
-![영화 추천 화면](https://github.com/user-attachments/assets/1ec48b7a-1c4c-406b-910a-929d725850d0)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ec48b7a-1c4c-406b-910a-929d725850d0" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/b6da5c2e-20a3-4d33-9858-26e889aa6f19" width="45%"/>
+</div>
 
 ---
 
-### 4) 영화 추천 이유 설명  
-추천 이유는 LLM이 분석한 자연어 리뷰, 장르 유사도, 감정 톤 분석 등을 바탕으로 제시됩니다.  
-이를 통해 사용자는 단순 추천이 아닌 **납득 가능한 추천 이유**를 확인할 수 있습니다.
+### 3) 추천 이유 설명 (2)
 
-![추천 이유 설명 1](https://github.com/user-attachments/assets/b6da5c2e-20a3-4d33-9858-26e889aa6f19)  
-![추천 이유 설명 2](https://github.com/user-attachments/assets/70fb02d6-189f-4411-a601-5e09fed47c23)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/70fb02d6-189f-4411-a601-5e09fed47c23" width="45%"/>
+</div>
+
 
 
 ---
