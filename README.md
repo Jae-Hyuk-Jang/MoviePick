@@ -1,6 +1,10 @@
 # MoviePick
 p-semester project
 
+## 🏗️ 시스템 아키텍처
+
+![architechture](https://github.com/user-attachments/assets/709a242f-d582-4174-8358-1e63ca67058d)
+
 
 ## 🎬 시연 영상
 
