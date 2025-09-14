@@ -47,6 +47,13 @@
 
 ![5](https://github.com/user-attachments/assets/342b2f5f-ad51-4a2f-ae10-6e05441a8914)
 
+## DB 설계 
+<img width="1744" height="1392" alt="ERD_MODEL" src="https://github.com/user-attachments/assets/a9d4f87d-9ba0-461d-8f96-66078c88450a" />
+
+## AI 시스템 아키텍쳐 
+<img width="569" height="427" alt="image" src="https://github.com/user-attachments/assets/253b0ab3-de8c-44fa-ab93-00afb8d3bad2" />
+
+
 ---
 
 ## 🎬 시연 영상
